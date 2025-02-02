@@ -6,3 +6,6 @@ The Cyclistic bike-share analysis is a case study that demonstrates the steps of
 
 ## Scenario
 I am a junior data analyst working on the marketing team at Cyclistic. Lily Moreno, director of marketing and my manager, believes the company’s future success depends on maximizing the number of annual memberships. Therefore, our team wants to understand how casual riders and annual members use Cyclistic bikes differently.
+
+## Using R
+You can view the R Markdown file here to see how I analyzed the data of Cyclistic for the year 2024. You can view the final output of the R Markdown file [here](CaseStudy using R.html) 
