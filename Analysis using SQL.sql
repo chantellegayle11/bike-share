@@ -9,7 +9,7 @@
 
 -- Process: I chose to use SQL to clean, aggregate and analyze the large amount of monthly data that I created tables for in BigQuery.
 
--- Combining all the tables into one.
+-- Combining all the tables into one. Using UNION DISTINCT makes sure that only unique rows will be combined. 
 SELECT
   *
 FROM
