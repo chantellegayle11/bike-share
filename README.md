@@ -9,3 +9,6 @@ I am a junior data analyst working on the marketing team at Cyclistic. Lily More
 
 ## Using R
 You can view the R Markdown file [here](https://github.com/chantellegayle11/bike-share/blob/main/CaseStudy%20using%20R.Rmd) to see how I analyzed the data of Cyclistic for the year 2024. You can view the final output of the R Markdown file [here](https://chantellegayle11.github.io/bike-share/CaseStudy%20using%20R.html).
+
+## Using SQL (BigQuery) and Google Sheets
+You can view the sql file [here](https://github.com/chantellegayle11/bike-share/edit/main/Analysis%20using%20SQL.sql) to see how I analyzed the data of Cyclistic for the year 2024. The continuation of analysis can be view [here](https://docs.google.com/spreadsheets/d/1yY7enwiKjCg6Iqm9d8eyDNVASxdmUGJ-wPYdZ8cxTSI/edit?usp=sharing) in Google Sheets. 
