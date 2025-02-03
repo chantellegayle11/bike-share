@@ -10,8 +10,8 @@ I am a junior data analyst working on the marketing team at Cyclistic. Lily More
 ## Using R
 You can view the R Markdown file [here](https://github.com/chantellegayle11/bike-share/blob/main/CaseStudy%20using%20R.Rmd) to see how I analyzed the data of Cyclistic for the year 2024. You can view the final output of the R Markdown file [here](https://chantellegayle11.github.io/bike-share/CaseStudy%20using%20R.html).
 
-## Using SQL (BigQuery) and Google Sheets
-You can view the sql file [here](https://github.com/chantellegayle11/bike-share/edit/main/Analysis%20using%20SQL.sql) to see how I analyzed the data of Cyclistic for the year 2024. Due to the limitations of my BigQuery Sandbox account, I decided to further explore the processed data in Google Sheets. The continuation of analysis can be viewed [here](https://docs.google.com/spreadsheets/d/1yY7enwiKjCg6Iqm9d8eyDNVASxdmUGJ-wPYdZ8cxTSI/edit?usp=sharing). In Google Sheets, I used pivot tables and charts for visualization purposes. 
-
 ## Using Tableau for Visualization
 Using the cleaned data file from my analysis using R, I created [this](https://public.tableau.com/views/bike-share_17385061749530/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) visualization using Tableau Public. 
+
+## Using SQL (BigQuery) and Google Sheets
+You can view the sql file [here](https://github.com/chantellegayle11/bike-share/edit/main/Analysis%20using%20SQL.sql) to see how I analyzed the data of Cyclistic for the year 2024. Due to the limitations of my BigQuery Sandbox account, I decided to further explore the processed data in Google Sheets. The continuation of analysis can be viewed [here](https://docs.google.com/spreadsheets/d/1yY7enwiKjCg6Iqm9d8eyDNVASxdmUGJ-wPYdZ8cxTSI/edit?usp=sharing). In Google Sheets, I used pivot tables and charts for visualization purposes. 
